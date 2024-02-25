@@ -1,7 +1,5 @@
 Design & Develop By : Tejas Navinkumar Phatangare
 
-Demo - https://tejasphatangare.github.io/tejasphatangare_portfolio.github.io./
-
 Email : tejasphatangare2109@gmail.com
 
 Whatsapp : 7038643242
